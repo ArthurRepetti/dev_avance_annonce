@@ -1,0 +1,1 @@
+Au vu de la taille du projet, je n'ai pas implémenté de système d'exceptions.
